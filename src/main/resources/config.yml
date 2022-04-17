@@ -1,0 +1,19 @@
+enchantsgui:
+  1:
+    material: "BOOK"
+    customname: "&6Efficiency"
+    nextlevel: "&7Buy next level for &c%tokens%"
+  2:
+    material: "BOOK"
+    customname: "&6Efficiency"
+    nextlevel: "&7Buy next level for &c%tokens%"
+
+enchants:
+  efficiency:
+    firstlevelcost: 150
+    nextlevelsmultiplier: 2 # 150 * 2 **
+    maxlevel: 5
+
+
+configuration:
+  starting-balance: 0

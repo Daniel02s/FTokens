@@ -1,0 +1,15 @@
+boughtanenchant: "&7You bought %enchant% for %tokens%"
+giventokens: "&7You got +%tokens%"
+removedtokens: "&7You got -%tokens%"
+payedtokens: "&7You have given %tokens% to %player%"
+admingivetokens: "&7You have given %tokens% to %player%"
+balance: "&7Your balance is %balance%"
+ftaerrorgive: "&7Wrong usage: /fta give {player} {amount}"
+help-command:
+  - "&7FTokens - Help Menu"
+  - "&7/fta balance &8- &fSee your balance"
+  - "&7/fta pay {player} {amount} &8- &fGive another player a specific amount of tokens (from your balance)"
+adminhelp-command:
+  - "&7FTokens - Help Menu &c&lADMIN"
+  - "&7/fta give {player} {amount} &8- &fGive tokens to a player"
+  - "&7/fta pay {player} {amount} &8- &fGive another player a specific amount of tokens (from your balance)"

@@ -1,0 +1,5 @@
+name: FTokens
+version: '${project.version}'
+main: me.fanta.ftokens.FTokens
+api-version: 1.16
+description: Ftokens
